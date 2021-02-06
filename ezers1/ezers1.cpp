@@ -11,5 +11,7 @@ int main()
 	std::cout << "Second";
 	
 	std::cout << "Commit from Github";
+
+	std::cout << "Commit in first_branch";
 }
 
