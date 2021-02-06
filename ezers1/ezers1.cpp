@@ -8,5 +8,6 @@ int main()
 	std::cout << "New commit";
 
 	std::cout << "First";
+	std::cout << "Second";
 }
 
