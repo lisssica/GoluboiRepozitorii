@@ -8,7 +8,11 @@ void f()
 
 int main()
 {
+<<<<<<< HEAD
     std::cout << "Hello Awful World!\n";
+=======
+    std::cout << "Hello Beatiful World!\n";
+>>>>>>> master
 
 	std::cout << "New commit";
 
