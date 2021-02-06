@@ -1,6 +1,11 @@
 ﻿
 #include <iostream>
 
+void f
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
@@ -13,5 +18,6 @@ int main()
 	std::cout << "Commit from Github";
 
 	std::cout << "Commit in first_branch";
+
 }
 
