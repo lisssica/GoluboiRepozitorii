@@ -1,7 +1,7 @@
 ﻿
 #include <iostream>
 
-void f
+void f()
 {
 
 }
@@ -19,5 +19,6 @@ int main()
 
 	std::cout << "Commit in first_branch";
 
+	std::cout << "I'm in the second_branch!";
 }
 
