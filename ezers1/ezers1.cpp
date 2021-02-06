@@ -8,7 +8,7 @@ void f()
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    std::cout << "Hello Beatiful World!\n";
 
 	std::cout << "New commit";
 
