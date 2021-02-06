@@ -9,5 +9,7 @@ int main()
 
 	std::cout << "First";
 	std::cout << "Second";
+	
+	std::cout << "Commit from Github";
 }
 
